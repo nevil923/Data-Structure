@@ -1,4 +1,5 @@
- //Enrolment No:-92500527120
+ //Enrolment No:-92500527120//
+//write a program to find the power of a given number using stack//
  #include<stdio.h>
           #define MAX 100
 
